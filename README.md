@@ -1,5 +1,5 @@
 ``plaintext
-https://api.etherscan.io/api
+https://URL.etherscan.io/api
    ?module=account
    &action=txlistinternal
    &address=0x2c1ba59d6f58433fb1eaee7d20b26ed83bda51a3
@@ -8,4 +8,4 @@ https://api.etherscan.io/api
    &page=1
    &offset=10
    &sort=asc
-   &apikey=YourApiKeyVGC6Q6RAQKWWIA1GHKYBIUMGGAD2GZ889J
+    &apikey=YourApi V2: MULTICHAIN
